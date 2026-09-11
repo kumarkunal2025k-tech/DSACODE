@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarkunal2025k-tech/DSACODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/kumarkunal2025k-tech/DSACODE/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
